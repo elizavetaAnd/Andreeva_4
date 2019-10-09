@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4Rassohin", "Lab4Rassohin\Lab4Rassohin.csproj", "{4536F1BB-4BC6-48E6-A3C2-80FD4A54D8D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form1", "Form1\Form1.csproj", "{BBFDF611-992F-4096-B56B-B1B32859FF87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4536F1BB-4BC6-48E6-A3C2-80FD4A54D8D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4536F1BB-4BC6-48E6-A3C2-80FD4A54D8D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4536F1BB-4BC6-48E6-A3C2-80FD4A54D8D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4536F1BB-4BC6-48E6-A3C2-80FD4A54D8D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBFDF611-992F-4096-B56B-B1B32859FF87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBFDF611-992F-4096-B56B-B1B32859FF87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBFDF611-992F-4096-B56B-B1B32859FF87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBFDF611-992F-4096-B56B-B1B32859FF87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75277BFF-02D7-4417-814E-EE7655AD88F0}
+	EndGlobalSection
+EndGlobal
