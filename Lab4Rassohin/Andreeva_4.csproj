@@ -7,7 +7,7 @@
     <ProjectGuid>{4536F1BB-4BC6-48E6-A3C2-80FD4A54D8D5}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Andreeva_4</RootNamespace>
-    <AssemblyName>LAndreeva_4</AssemblyName>
+    <AssemblyName>Andreeva_4</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
