@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lab4Rassohin
+namespace Andreeva_4
 {
     class Program
     {
