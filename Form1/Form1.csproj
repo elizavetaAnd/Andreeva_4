@@ -82,7 +82,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Lab4Rassohin\Lab4Rassohin.csproj">
+    <ProjectReference Include="..\Andreeva_4\Andreeva_4.csproj">
       <Project>{4536f1bb-4bc6-48e6-a3c2-80fd4a54d8d5}</Project>
       <Name>Andreeva_4</Name>
     </ProjectReference>
