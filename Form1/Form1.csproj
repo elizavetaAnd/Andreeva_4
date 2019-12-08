@@ -84,7 +84,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Lab4Rassohin\Lab4Rassohin.csproj">
       <Project>{4536f1bb-4bc6-48e6-a3c2-80fd4a54d8d5}</Project>
-      <Name>Lab4Rassohin</Name>
+      <Name>Andreeva_4</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
